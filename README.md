@@ -1,8 +1,8 @@
  Hi i am ashpreet 
 
-BCA Final year student
-python learner
-web development beginner
+-BCA Final year student,
+-python learner,
+-web development beginner
 
 ## Skills:
 -HTML,Python,Css
