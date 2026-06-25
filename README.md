@@ -5,9 +5,9 @@ python learner
 web development beginner
 
 ## Skills:
-HTML,Python,Css
+-HTML,Python,Css
 
 ## Project:
-calculator in python
-even odd checker 
+-calculator in python
+-even odd checker 
 basic program in python
